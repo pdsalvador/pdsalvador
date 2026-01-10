@@ -19,9 +19,10 @@ I mostly document my homelab guides in **BookStack**, where I organize notes, se
 
 ## Tools I Use
 Some of the main tools and technologies I regularly work with include:
-- Kubernetes / k3s  
+- Kubernetes / k3s
+- Zabbix / monitoring
 - Docker / containerization
-- Proxmox VE / Virtualization 
+- Proxmox VE / virtualization
 - Various networking and storage solutions  
 - Automation and scripting (PowerShell, Bash)
 
