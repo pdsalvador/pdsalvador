@@ -11,7 +11,7 @@ Currently, I'm working on a private repository for my **k3s cluster**. My homela
 - **Traefik** for ingress routing  
 - **Cert-Manager** for automated TLS certificates  
 
-I also run **BookStack** to organize my documentation and notes for personal projects. Feel free to check it out: https://bookstack.penguincave.link/
+I mostly document my homelab projects and guides in **BookStack**, where I organize notes, setup instructions, and insights from my personal projects. Feel free to explore and use it as a reference: [https://bookstack.penguincave.link/](https://bookstack.penguincave.link/)
 
 ## Tools I Use
 Some of the main tools and technologies I regularly work with include:
