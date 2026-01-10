@@ -3,15 +3,16 @@
 Welcome to my GitHub! Here's a bit about me and what I do.
 
 ## About Me
-I’m an IT professional with a passion for homelabs and exploring new technologies. I enjoy building and managing personal infrastructure projects, learning by doing, and sharing insights when I can.
+I'm currently building a private **k3s cluster** repository, which I plan to make public once I finish migrating my Docker-based homelab to k3s. The repository will include detailed documentation and guides to help others set up similar environments.  
 
-## What I'm Working On
-Currently, I'm working on a private repository for my **k3s cluster**. My homelab setup includes tools like:
+My homelab setup features tools like:  
 - **Longhorn** for distributed storage  
 - **Traefik** for ingress routing  
 - **Cert-Manager** for automated TLS certificates  
 
-I mostly document my homelab projects and guides in **BookStack**, where I organize notes, setup instructions, and insights from my personal projects. Feel free to explore and use it as a reference: [https://bookstack.penguincave.link/](https://bookstack.penguincave.link/)
+Through this setup, I explore Kubernetes in a home environment while maintaining a structured and shareable documentation of my projects.
+
+I mostly document my homelab guides in **BookStack**, where I organize notes, setup instructions, and insights from my personal projects. Feel free to explore and use it as a reference: [https://bookstack.penguincave.link/](https://bookstack.penguincave.link/)
 
 ## Tools I Use
 Some of the main tools and technologies I regularly work with include:
