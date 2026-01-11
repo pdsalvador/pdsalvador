@@ -3,7 +3,7 @@
 Welcome to my GitHub! Here's a bit about me and what I do.
 
 ## About Me
-I’m an IT System Administrator with a passion for homelabs and exploring new technologies. I enjoy building and managing personal infrastructure projects, learning by doing, and sharing insights when I can.
+I’m an IT professional with a passion for homelabs and exploring new technologies. I enjoy building and managing personal infrastructure projects, learning by doing, and sharing insights when I can.
 
 ## What I'm Working On
 I'm currently building a private **k3s cluster** repository, which I plan to make public once I finish migrating my Docker-based homelab to k3s. The repository will include detailed documentation and guides to help others set up similar environments.  
