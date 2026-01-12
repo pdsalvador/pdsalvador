@@ -31,7 +31,7 @@ Feel free to connect with me through:
 <br>
 
 <div align="center">
-  <a href="spatrickowenn@gmail.com">
+  <a href="mailto:spatrickowenn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <!-- <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
