@@ -54,9 +54,8 @@ I enjoy working across a wide range of technologies. These are some of the platf
 - BookStack
 - Home Assistant
 - Immich
-- Nextcloud
-- Jellyfin
-- Plex
+- Actual Budget
+- Vaultwarden
 - Arr Stack
 
 ...and many other technologies that I continue to explore as I build, automate, and maintain infrastructure.
