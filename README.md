@@ -5,26 +5,63 @@ Welcome to my GitHub! Here's a bit about me and what I do.
 ## About Me
 I’m an IT professional with a passion for homelabs and exploring new technologies. I enjoy building and managing personal infrastructure projects, learning by doing, and sharing insights when I can.
 
-## What I'm Working On
-I'm currently building a private **k3s cluster** repository, which I plan to make public once I finish migrating my Docker-based homelab to k3s. The repository will include detailed documentation and guides to help others set up similar environments.  
-
-My homelab setup features tools like:  
-- **Longhorn** for distributed storage  
-- **Traefik** for ingress routing  
-- **Cert-Manager** for automated TLS certificates  
-
-Through this setup, I explore Kubernetes in a home environment while maintaining a structured and shareable documentation of my projects.
-
 I mostly document my homelab guides in **BookStack**, where I organize notes, setup instructions, and insights from my personal projects. Feel free to explore and use it as a reference: [https://bookstack.penguincave.link/](https://bookstack.penguincave.link/)
 
-## Tools I Use
-Some of the main tools and technologies I regularly work with include:
-- Kubernetes / k3s
-- Zabbix / monitoring
-- Docker / containerization
-- Proxmox VE / virtualization
-- Various networking and storage solutions  
-- Automation and scripting (PowerShell, Bash)
+## Technologies & Platforms
+
+I enjoy working across a wide range of technologies. These are some of the platforms and tools I use most frequently in both my professional work and homelab projects.
+
+### Infrastructure & Virtualisation
+- Proxmox VE
+- Kubernetes (k3s)
+- Docker & Docker Compose
+- Linux (Debian, Ubuntu, Alpine)
+
+### Monitoring & Observability
+- Zabbix
+- Grafana
+- Prometheus
+- Loki
+
+### Networking
+- Traefik
+- Cloudflare
+- Tailscale
+- Pi-hole
+- Unbound
+- WireGuard
+
+### Storage & Backup
+- Proxmox Backup Server (PBS)
+- ZFS
+- Veeam Backup & Replication
+- NFS & SMB
+
+### Automation & Development
+- PowerShell
+- Bash
+- Git
+
+### Microsoft & Cloud
+- Microsoft 365
+- Microsoft Intune
+- Microsoft Entra ID
+- Exchange Online
+- SharePoint Online
+- Google Workspace
+
+### Self-Hosting
+- BookStack
+- Home Assistant
+- Immich
+- Nextcloud
+- Jellyfin
+- Plex
+- Arr Stack
+
+...and many other technologies that I continue to explore as I build, automate, and maintain infrastructure.
+
+
 
 ## How to Reach Me
 Feel free to connect with me through:
